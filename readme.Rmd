@@ -1,0 +1,16 @@
+---
+output:
+  github_document
+---
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+# nuts <img src="man/figures/logo.png" align="right" />
+
+Winter is long, dark, and cold.  But these **nuts** will help you make it through.
